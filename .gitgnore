@@ -1,5 +1,4 @@
-[Dd]ebug/
-[Rr]elease/
-x64/
-[Bb]in/
-[Oo]bj/
+*/src/*/bin/*
+*/src/*/obj/*
+*/test/*/bin/*
+*/test/*/obj/*
